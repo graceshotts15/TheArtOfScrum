@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(0, 0, 0); 
+    font-size: xx-large;
+    
+}
+p{
+    color:rgb(255, 255, 255);
+    
+    font-family:cursive;
+}
+h1{
+    color:rgb(255, 255, 255);
+    font-style: oblique;
+}
+h2{
+    color:rgb(255, 255, 255);
+    font-family:cursive;
+}
+ul{
+    color:rgb(255, 255, 255);
+}
+hr{
+    width: 50%;
+}
+a{
+    color:blueviolet;
+}
